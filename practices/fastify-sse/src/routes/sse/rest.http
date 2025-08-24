@@ -1,0 +1,9 @@
+
+
+
+POST http://localhost:3000/sse/send
+Content-Type: application/json
+
+{
+    "message": "hello,world"
+}
